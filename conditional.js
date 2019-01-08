@@ -1,3 +1,4 @@
+"use strict";
 // 型定義における条件分岐
 // type MyCondition<T, U, X, Y> = T extends U ? X : Y
 // TがUに代入可能であれば、XをそうでなければYという型

@@ -1,3 +1,4 @@
+"use strict";
 var mytypetest = {
     foo: "a",
     bar: 123,
